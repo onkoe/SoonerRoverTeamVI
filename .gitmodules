@@ -1,0 +1,15 @@
+[submodule "Autonomous"]
+	path = Autonomous
+	url = https://github.com/Sooner-Rover-Team/Autonomous
+[submodule "Misson Control/RoverMap"]
+	path = Misson Control/RoverMap
+	url = https://github.com/Sooner-Rover-Team/RoverMap
+[submodule "Misson Control/python_drive"]
+	path = Misson Control/python_drive
+	url = https://github.com/Sooner-Rover-Team/python_drive
+[submodule "Misson Control/rovercam-python"]
+	path = Misson Control/rovercam-python
+	url = https://github.com/Sooner-Rover-Team/rovercam-python
+[submodule "Microcontrollers"]
+	path = Microcontrollers
+	url = https://github.com/Sooner-Rover-Team/Microcontrollers
