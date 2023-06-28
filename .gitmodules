@@ -1,6 +1,7 @@
 [submodule "Autonomous"]
 	path = Autonomous
 	url = https://github.com/Sooner-Rover-Team/Autonomous
+	branch = rye
 [submodule "Misson Control/RoverMap"]
 	path = Misson Control/RoverMap
 	url = https://github.com/Sooner-Rover-Team/RoverMap
